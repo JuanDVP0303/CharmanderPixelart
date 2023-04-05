@@ -372,6 +372,9 @@ section{
     	grid-area:9/19/11;
     }
 
+	.white{
+	background-color:white;
+}
 
 	.white-1{
     	grid-area: 6;
